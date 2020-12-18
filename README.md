@@ -1,6 +1,6 @@
 # App hosted at 
 
-http://anup-stha.me/VideoSearch/
+https://anup-stha.github.io/VideoSearch/
 
 # Getting Started with Create React App
 
