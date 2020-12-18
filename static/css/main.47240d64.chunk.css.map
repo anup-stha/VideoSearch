@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/video-item.css"],"names":[],"mappings":"AAAA,YACE,sBAAwB,CACxB,kBAAmB,CACnB,wBAA0B,CAC1B,cACF","file":"main.47240d64.chunk.css","sourcesContent":[".video-item {\n  display: flex !important;\n  align-items: center;\n  padding: 10px 0 !important;\n  cursor: pointer;\n}\n"]}
